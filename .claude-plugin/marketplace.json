@@ -1,0 +1,44 @@
+{
+  "name": "prodsec-skills",
+  "metadata": {
+    "description": "Red Hat Product Security skills library — 128 security skills for AI coding assistants covering secure development, security testing, security auditing, and developer tooling."
+  },
+  "owner": {
+    "name": "RedHatProductSecurity"
+  },
+  "plugins": [
+    {
+      "name": "prodsec-skills",
+      "description": "Security guidance skills for AI coding assistants. Covers cryptography, web security, supply chain, MCP servers, Kubernetes, API gateways, fuzzing, static analysis, audit workflows, and more.",
+      "version": "1.0.0",
+      "category": "security",
+      "keywords": [
+        "security",
+        "secure-development",
+        "fuzzing",
+        "static-analysis",
+        "audit",
+        "supply-chain",
+        "cryptography",
+        "kubernetes",
+        "web-security",
+        "mcp-security"
+      ],
+      "author": {
+        "name": "Red Hat Product Security"
+      },
+      "license": "Apache-2.0",
+      "homepage": "https://github.com/RedHatProductSecurity/prodsec-skills",
+      "repository": "https://github.com/RedHatProductSecurity/prodsec-skills",
+      "source": {
+        "source": "github",
+        "repo": "RedHatProductSecurity/prodsec-skills",
+        "ref": "main"
+      },
+      "strict": false,
+      "skills": [
+        "./skills/"
+      ]
+    }
+  ]
+}
