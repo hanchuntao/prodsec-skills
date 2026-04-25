@@ -3,6 +3,8 @@ name: libfuzzer
 description: >
   Coverage-guided fuzzer built into LLVM for C/C++ projects. Use for fuzzing
   C/C++ code that can be compiled with Clang.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # libFuzzer

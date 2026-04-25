@@ -1,6 +1,8 @@
 ---
 name: zeroize-audit
 description: "Detects missing zeroization of sensitive data in source code and identifies zeroization removed by compiler optimizations, with assembly-level analysis, and control-flow verification. Use for auditing C/C++/Rust code handling secrets, keys, passwords, or other sensitive data."
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # Zeroize audit

@@ -1,6 +1,8 @@
 ---
 name: fp-check
 description: "Systematically verifies suspected security bugs to eliminate false positives. Produces TRUE POSITIVE or FALSE POSITIVE verdicts with documented evidence for each bug."
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # False Positive Check

@@ -1,0 +1,82 @@
+NOTICE — Third-Party Licenses
+
+This project is licensed under the Apache License 2.0 (see LICENSE).
+However, certain skills are adapted from third-party sources under
+their own licenses as described below. Those skills retain their
+original license and are NOT covered by the Apache 2.0 license.
+
+Each affected skill file contains a "license" field in its YAML front
+matter identifying the applicable license.
+
+===========================================================================
+
+1. Trail of Bits Skills Marketplace
+   Source: https://github.com/trailofbits/skills
+   License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+   Upstream commit: 88947f59f1032c1f4d84d6fab244acff6f014728 (2026-04-07)
+
+   Adaptations: Converted from Claude Code plugin format to flat
+   tool-agnostic markdown. plugin.json, hooks/, allowed-tools, and
+   tool-specific scripts removed. Reference docs inlined or linked
+   to upstream.
+
+   Adapted skills:
+
+   skills/security_testing/fuzzing/address-sanitizer.md
+   skills/security_testing/fuzzing/aflpp.md
+   skills/security_testing/fuzzing/atheris.md
+   skills/security_testing/fuzzing/cargo-fuzz.md
+   skills/security_testing/fuzzing/coverage-analysis.md
+   skills/security_testing/fuzzing/fuzzing-dictionary.md
+   skills/security_testing/fuzzing/fuzzing-obstacles.md
+   skills/security_testing/fuzzing/harness-writing.md
+   skills/security_testing/fuzzing/libafl.md
+   skills/security_testing/fuzzing/libfuzzer.md
+   skills/security_testing/fuzzing/ossfuzz.md
+   skills/security_testing/fuzzing/ruzzy.md
+   skills/security_testing/static-analysis/codeql.md
+   skills/security_testing/static-analysis/sarif-parsing.md
+   skills/security_testing/static-analysis/semgrep.md
+   skills/security_testing/static-analysis/semgrep-rule-creator.md
+   skills/security_testing/static-analysis/semgrep-rule-variant-creator.md
+   skills/security_auditing/audit-workflow/audit-context-building.md
+   skills/security_auditing/audit-workflow/differential-review.md
+   skills/security_auditing/audit-workflow/fp-check.md
+   skills/security_auditing/audit-workflow/variant-analysis.md
+   skills/developer_tooling/testing/property-based-testing.md
+   skills/developer_tooling/tooling/devcontainer-setup.md
+   skills/developer_tooling/tooling/git-cleanup.md
+   skills/developer_tooling/tooling/modern-python.md
+   skills/secure_development/crypto/constant-time-analysis.md
+   skills/secure_development/crypto/constant-time-testing.md
+   skills/secure_development/crypto/zeroize-audit.md
+   skills/secure_development/secure-config/agentic-actions-auditor.md
+   skills/secure_development/secure-config/insecure-defaults.md
+   skills/secure_development/secure-config/sharp-edges.md
+   skills/secure_development/supply-chain/supply-chain-risk-auditor.md
+
+===========================================================================
+
+2. CoSAI Project CodeGuard
+   Source: https://github.com/cosai-oasis/project-codeguard (v1.3.1)
+   License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+   Adaptations: CodeGuard consolidated rules adapted to individual
+   skill format (YAML frontmatter, tool-agnostic markdown). OWASP
+   backing sources used for enrichment.
+
+   Adapted skills:
+
+   skills/secure_development/crypto/algorithm-selection.md
+   skills/secure_development/languages/safe-c-functions.md
+   skills/secure_development/secure-config/build-yaml-misconfiguration.md
+   skills/secure_development/web-security/client-side-security.md
+   skills/secure_development/web-security/file-handling-uploads.md
+   skills/secure_development/web-security/input-validation-injection.md
+   skills/secure_development/web-security/session-management-cookies.md
+   skills/secure_development/web-security/xml-serialization-security.md
+
+===========================================================================
+
+All other skills in this repository are original works licensed under
+the Apache License 2.0.

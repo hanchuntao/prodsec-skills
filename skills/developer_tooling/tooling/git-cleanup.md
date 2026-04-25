@@ -1,6 +1,8 @@
 ---
 name: git-cleanup
 description: "Safely analyzes and cleans up local git branches and worktrees by categorizing them as merged, squash-merged, superseded, or active work."
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 

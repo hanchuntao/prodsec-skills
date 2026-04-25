@@ -5,6 +5,8 @@ description: >
   Adapts analysis depth to codebase size, uses git history for context, calculates
   blast radius, checks test coverage, and generates comprehensive markdown reports.
   Automatically detects and prevents security regressions.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # Differential Security Review

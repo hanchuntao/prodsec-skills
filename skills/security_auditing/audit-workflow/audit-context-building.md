@@ -1,6 +1,8 @@
 ---
 name: audit-context-building
 description: Enables ultra-granular, line-by-line code analysis to build deep architectural context before vulnerability or bug finding.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # Deep Context Builder Skill (Ultra-Granular Pure Context Mode)

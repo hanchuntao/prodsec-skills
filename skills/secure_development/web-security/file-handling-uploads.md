@@ -5,6 +5,8 @@ description: >
   processes user-supplied files, or serves stored files. Covers
   extension validation, content verification, filename security,
   storage isolation, and scanning.
+license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+origin: Adapted from CoSAI Project CodeGuard (https://github.com/cosai-oasis/project-codeguard)
 ---
 
 # File Upload Security

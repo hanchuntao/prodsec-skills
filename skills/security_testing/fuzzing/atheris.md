@@ -3,6 +3,8 @@ name: atheris
 description: >
   Atheris is a coverage-guided Python fuzzer based on libFuzzer.
   Use for fuzzing pure Python code and Python C extensions.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # Atheris

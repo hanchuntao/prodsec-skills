@@ -3,6 +3,8 @@ name: ossfuzz
 description: >
   OSS-Fuzz provides free continuous fuzzing for open source projects.
   Use when setting up continuous fuzzing infrastructure or enrolling projects.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # OSS-Fuzz

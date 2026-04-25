@@ -8,6 +8,8 @@ description: >-
   to scan code for vulnerabilities, run a security audit with Semgrep, find
   bugs, or perform static analysis. Spawns parallel workers for multi-language
   codebases.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # Semgrep Security Scan

@@ -3,6 +3,8 @@ name: fuzzing-dictionary
 description: >
   Fuzzing dictionaries guide fuzzers with domain-specific tokens.
   Use when fuzzing parsers, protocols, or format-specific code.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # Fuzzing Dictionary

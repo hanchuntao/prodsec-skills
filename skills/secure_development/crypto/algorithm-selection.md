@@ -5,6 +5,8 @@ description: >
   algorithms, cipher suites, protocol versions, or key exchange
   mechanisms. Covers banned/deprecated/recommended algorithms,
   post-quantum readiness, key management, and OpenSSL API migration.
+license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+origin: Adapted from CoSAI Project CodeGuard (https://github.com/cosai-oasis/project-codeguard)
 ---
 
 # Cryptographic Algorithm Selection and Post-Quantum Readiness

@@ -5,6 +5,8 @@ description: >-
   scanners. Triggers on "parse sarif", "read scan results", "aggregate findings", "deduplicate
   alerts", or "process sarif output". Handles filtering, deduplication, format conversion, and
   CI/CD integration of SARIF data. Does NOT run scans — use the Semgrep or CodeQL skills for that.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # SARIF Parsing Best Practices

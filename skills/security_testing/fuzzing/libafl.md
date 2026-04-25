@@ -3,6 +3,8 @@ name: libafl
 description: >
   LibAFL is a modular fuzzing library for building custom fuzzers. Use for
   advanced fuzzing needs, custom mutators, or non-standard fuzzing targets.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # LibAFL

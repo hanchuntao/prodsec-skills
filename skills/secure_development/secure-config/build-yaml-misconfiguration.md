@@ -6,6 +6,8 @@ description: >
   CI builds. Detects common misconfigurations that expose secrets,
   weaken isolation, skip security gates, grant excessive privileges,
   or produce insecure container images.
+license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+origin: Adapted from CoSAI Project CodeGuard (https://github.com/cosai-oasis/project-codeguard)
 ---
 
 # Build YAML Misconfiguration

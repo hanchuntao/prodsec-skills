@@ -4,6 +4,8 @@ description: >
   Apply when reviewing or writing browser-facing code that handles
   user input, renders HTML, sets cookies, or loads third-party scripts.
   Covers XSS, CSRF, CSP, clickjacking, XS-Leaks, and HTTP security headers.
+license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+origin: Adapted from CoSAI Project CodeGuard (https://github.com/cosai-oasis/project-codeguard)
 ---
 
 # Client-Side Web Security

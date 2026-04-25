@@ -89,4 +89,11 @@ For architecture decisions and conventions, see [`AGENTS.md`](AGENTS.md).
 
 This project is licensed under the Apache License 2.0 — see [`LICENSE`](LICENSE) for details.
 
-Trail of Bits-derived skills (fuzzing, static analysis, audit workflows, developer tooling) are [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). CoSAI CodeGuard-derived skills are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See individual category `README.md` files for provenance details.
+**Some skills are adapted from third-party sources under their own licenses:**
+
+| Source | License | Skills | Details |
+|--------|---------|--------|---------|
+| [Trail of Bits Skills Marketplace](https://github.com/trailofbits/skills) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 32 skills (fuzzing, static analysis, audit workflows, developer tooling, and select crypto/config/supply-chain skills) | ShareAlike — adaptations must use the same license |
+| [CoSAI Project CodeGuard](https://github.com/cosai-oasis/project-codeguard) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 8 skills (web security, C/C++ safety, algorithm selection, build YAML) | Attribution required |
+
+Each affected skill file has `license` and `origin` fields in its YAML front matter. See [`NOTICE`](NOTICE) for the complete list and [`skills/secure_development/README.md`](skills/secure_development/README.md) for full provenance.

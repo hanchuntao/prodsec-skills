@@ -3,6 +3,8 @@ name: aflpp
 description: >
   AFL++ is a fork of AFL with better fuzzing performance and advanced features.
   Use for multi-core fuzzing of C/C++ projects.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # AFL++

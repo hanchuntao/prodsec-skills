@@ -6,6 +6,8 @@ description: >-
   codeql database", or "find vulnerabilities with codeql". Supports "run all" (security-and-quality
   + security-experimental suites) and "important only" (high-precision security findings) scan
   modes. Also handles creating data extension models and processing CodeQL SARIF output.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # CodeQL Analysis

@@ -3,6 +3,8 @@ name: ruzzy
 description: >
   Ruzzy is a coverage-guided Ruby fuzzer by Trail of Bits.
   Use for fuzzing pure Ruby code and Ruby C extensions.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # Ruzzy

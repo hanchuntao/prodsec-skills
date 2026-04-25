@@ -4,6 +4,8 @@ description: >
   Apply when reviewing or writing C/C++ code that uses memory or
   string operations. Identifies banned functions, provides safe
   replacements, compiler hardening flags, and refactoring examples.
+license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+origin: Adapted from CoSAI Project CodeGuard (https://github.com/cosai-oasis/project-codeguard)
 ---
 
 # C/C++ Memory and String Safety

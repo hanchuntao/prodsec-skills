@@ -1,6 +1,8 @@
 ---
 name: devcontainer-setup
 description: Creates devcontainers with language-specific tooling (Python/Node/Rust/Go) and persistent volumes. Use when adding devcontainer support to a project or setting up isolated development environments.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # Devcontainer Setup Skill

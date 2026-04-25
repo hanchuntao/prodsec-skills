@@ -5,6 +5,8 @@ description: >
   DTDs, transforms XSLT, or deserializes data from untrusted sources.
   Covers XXE prevention, entity expansion, parser hardening, and
   safe deserialization per language.
+license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+origin: Adapted from CoSAI Project CodeGuard (https://github.com/cosai-oasis/project-codeguard)
 ---
 
 # XML and Serialization Hardening

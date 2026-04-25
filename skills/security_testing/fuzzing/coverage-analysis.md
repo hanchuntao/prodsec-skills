@@ -3,6 +3,8 @@ name: coverage-analysis
 description: >
   Coverage analysis measures code exercised during fuzzing.
   Use when assessing harness effectiveness or identifying fuzzing blockers.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # Coverage Analysis

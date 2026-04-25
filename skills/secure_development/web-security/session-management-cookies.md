@@ -5,6 +5,8 @@ description: >
   validates user sessions or sets cookies. Covers session ID
   generation, cookie security, rotation, timeouts, theft detection,
   and client-side storage restrictions.
+license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+origin: Adapted from CoSAI Project CodeGuard (https://github.com/cosai-oasis/project-codeguard)
 ---
 
 # Session Management and Cookies

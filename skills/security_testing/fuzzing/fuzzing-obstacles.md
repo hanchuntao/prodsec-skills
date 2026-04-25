@@ -3,6 +3,8 @@ name: fuzzing-obstacles
 description: >
   Techniques for patching code to overcome fuzzing obstacles.
   Use when checksums, global state, or other barriers block fuzzer progress.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # Overcoming Fuzzing Obstacles

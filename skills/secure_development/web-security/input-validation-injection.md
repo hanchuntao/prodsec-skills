@@ -5,6 +5,8 @@ description: >
   constructs queries or commands, or handles user-supplied data.
   Covers SQL, LDAP, OS command injection, prototype pollution, and
   general validation strategy.
+license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+origin: Adapted from CoSAI Project CodeGuard (https://github.com/cosai-oasis/project-codeguard)
 ---
 
 # Input Validation and Injection Defense

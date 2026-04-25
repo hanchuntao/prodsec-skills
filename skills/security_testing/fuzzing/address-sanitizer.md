@@ -3,6 +3,8 @@ name: address-sanitizer
 description: >
   AddressSanitizer detects memory errors during fuzzing.
   Use when fuzzing C/C++ code to find buffer overflows and use-after-free bugs.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # AddressSanitizer (ASan)

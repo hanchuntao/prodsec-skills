@@ -3,6 +3,8 @@ name: constant-time-testing
 description: >
   Constant-time testing detects timing side channels in cryptographic code.
   Use when auditing crypto implementations for timing vulnerabilities.
+license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+origin: Adapted from Trail of Bits Skills Marketplace (https://github.com/trailofbits/skills)
 ---
 
 # Constant-Time Testing
