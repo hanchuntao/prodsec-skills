@@ -1,0 +1,22 @@
+repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.15.9
+    hooks:
+      - id: ruff
+      - id: ruff-format
+
+  - repo: local
+    hooks:
+      - id: check-adrs
+        name: Validate ADR format
+        language: python
+        entry: uv run python scripts/check-adr-format.py
+        pass_filenames: false
+        files: ^docs/ADRs/
+
+      - id: check-skills
+        name: Validate skill front matter
+        language: python
+        entry: uv run python scripts/check-skills-format.py
+        pass_filenames: false
+        files: ^skills/.*\.md$

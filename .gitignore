@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+.uv/
+
+# Tools
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.ty/
+
+# Pre-commit
+.pre-commit-hooks/
+
+# OS
+.DS_Store
