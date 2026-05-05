@@ -6,11 +6,11 @@
 
 Reference any skill by path in your assistant prompt:
 
-```
+```text
 Using `module/skills/cargo-fuzz/SKILL.md`: write a fuzzing harness for this parser.
 ```
 
-```
+```text
 Using `module/skills/semgrep/SKILL.md`: scan this codebase for vulnerabilities.
 ```
 

@@ -6,11 +6,11 @@
 
 Reference any skill by path in your assistant prompt:
 
-```
+```text
 Using `module/skills/devcontainer-setup/SKILL.md`: add Dev Container support to this project.
 ```
 
-```
+```text
 Using `module/skills/property-based-testing/SKILL.md`: write property-based tests for this parser.
 ```
 

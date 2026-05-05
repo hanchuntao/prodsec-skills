@@ -6,7 +6,7 @@
 
 Reference any skill by path in your assistant prompt:
 
-```
+```text
 Using `module/skills/differential-review/SKILL.md`: review the security impact of this diff.
 ```
 
